@@ -5,7 +5,7 @@ title: UWEGAMES
 description: "Games development from an n00b's persepective."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/" #important: start with /
-url: "htttps://benheskins.github.io"
+url: "https://benheskins.github.io"
 
 # Build settings
 highlighter: rouge
